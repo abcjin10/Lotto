@@ -12,7 +12,7 @@
         android:id="@+id/txv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
+        android:gravity="center"
         android:text="計數器"
         android:textSize="30sp"
 />
